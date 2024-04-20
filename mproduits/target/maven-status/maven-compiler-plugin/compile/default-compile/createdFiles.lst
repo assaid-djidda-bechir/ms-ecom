@@ -1,0 +1,5 @@
+com\produits\mproduits\dao\ProductDao.class
+com\produits\mproduits\MproduitsApplication.class
+com\produits\mproduits\web\controller\ProductController.class
+com\produits\mproduits\web\exceptions\ProductNotFoundException.class
+com\produits\mproduits\model\Produit.class
